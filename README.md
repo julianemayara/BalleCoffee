@@ -1,4 +1,4 @@
-BALLECOFFEE - Cafeteria Virtual 🧋
+BALLECOFFEE - Cafeteria Virtual 🧋 <br>
 estilizei os cards, as imagens e um pouco do codigo do meu jeitinho - resultado abaixo!
 
 ![tela 1](https://github.com/julianemayara/BalleCoffee/assets/80775242/11af2d1a-d2d0-4655-8619-a553f2e58213)
